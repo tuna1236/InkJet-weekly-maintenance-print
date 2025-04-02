@@ -1,4 +1,3 @@
-#Cole patterson
 $Version = "1.3"
 $Date = "3/26/2025"
 
